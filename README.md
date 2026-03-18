@@ -92,9 +92,7 @@ Logs are stored in:
 $HOME/Weird/Weird_Log/
 ```
 
-/home/lain/scripts/Weird/Weird_Log/
-
-```
+---
 
 Each scan generates a timestamped log file.
 
