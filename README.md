@@ -61,14 +61,6 @@ This tool is intended for:
 bash Weird_Layer01.sh example.com
 ```
 
-Or with your bootstrap (recommended):
-
-```bash
-bash ghost_bootstrap.sh example.com
-```
-
----
-
 ## 🔑 API Configuration (Optional)
 
 To enable IP intelligence enrichment, insert your API key:
